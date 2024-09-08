@@ -13,5 +13,6 @@
 			>Is Hard</span><br/>
       Just Got <span class="text-indigo-400" >Easier</span>
 		</h2>
+    <p class="text-xl sm:text-2xl md:text-3xl text-center max-w-[1000px] mx-auto w-full">Less thinking, <span class="italic" >more doing</span>.</p>
 	</div>
 </SectionWrapper>
