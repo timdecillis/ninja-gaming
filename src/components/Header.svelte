@@ -8,7 +8,9 @@
 			<a href="#swe" class="duration-200 hover:text-indigo-400 cursor-pointer">SWE</a>
 			<a href="#music" class="duration-200 hover:text-indigo-400 cursor-pointer">Music</a>
 			<a href="#contact" class="duration-200 hover:text-indigo-400 cursor-pointer">Contact</a>
-			<button class="specialBtn">Start free today</button>
+			<button class="specialBtn">
+        <p>Start free today</p>
+      </button>
 		</nav>
 	</div>
 </header>
