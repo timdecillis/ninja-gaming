@@ -4,9 +4,9 @@
 			<h1 class="font-semibold">Swoley <span class="text-indigo-400">Moley</span></h1>
 		</a>
 		<button class="md:hidden grid place-items-center">Menu</button>
-		<nav class="hidden md:flex items-center gap-4 lg:gap-6">
-			<a href="#swe" class="duration-200 hover:text-indigo-400 cursor-pointer">SWE</a>
-			<a href="#music" class="duration-200 hover:text-indigo-400 cursor-pointer">Music</a>
+		<nav class="hidden md:flex justify-center items-center gap-4 lg:gap-6">
+			<a href="/swe" class="duration-200 hover:text-indigo-400 cursor-pointer">SWE</a>
+			<a href="/about" class="duration-200 hover:text-indigo-400 cursor-pointer">Music</a>
 			<a href="#contact" class="duration-200 hover:text-indigo-400 cursor-pointer">Contact</a>
 			<button class="specialBtn">
         <p>Start free today</p>
