@@ -3,8 +3,8 @@
 </script>
 
 <div class="friend-card">
-	<a href="settings">
+	<a href={`member/${id}`}>
 		<img class="friend-image" src="src/lib/assets/Sibley(1).jpg" alt="me" />
-		<div>{name} {id}</div>
+		<div>{name}</div>
 	</a>
 </div>
