@@ -6,8 +6,8 @@
 </script>
 
 <main class="flex flex-col">
-  <div class="flex" >
-		<Profile/>
-		<TopFriends/>
+  <div class="grid grid-cols-3" >
+		<Profile class="col-span-1"/>
+		<TopFriends class="col-span-2"/>
 	</div>
 </main>
