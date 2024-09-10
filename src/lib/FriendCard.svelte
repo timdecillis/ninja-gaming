@@ -1,8 +1,10 @@
 <script>
-	export let name;
+	export let name, id;
 </script>
 
 <div class="friend-card">
-	<img class="friend-image" src="src/lib/assets/Sibley(1).jpg" alt="me" />
-	<div>{name}</div>
+	<a href="settings">
+		<img class="friend-image" src="src/lib/assets/Sibley(1).jpg" alt="me" />
+		<div>{name} {id}</div>
+	</a>
 </div>

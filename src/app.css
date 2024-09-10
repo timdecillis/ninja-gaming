@@ -8,6 +8,6 @@
 	}
 
 	.friend-image {
-		@apply h-12 w-10 rounded-2xl;
+		@apply h-20 w-16 rounded-2xl;
 	}
 }
