@@ -2,7 +2,6 @@
 	import Profile from '$lib/Profile.svelte';
 	import TopFriends from '$lib/TopFriends.svelte';
 	export let data;
-	console.log('data:', data);
 </script>
 
 <main class="flex flex-col">
