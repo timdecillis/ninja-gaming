@@ -2,5 +2,5 @@
   import "../app.css";
 </script>
 
-<h1>Welcome to TimSpace</h1>
+<h1 class="text-center text-5xl font-bold m-8" >Welcome to TimSpace</h1>
 <slot />

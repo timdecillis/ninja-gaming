@@ -6,7 +6,7 @@
 </script>
 
 <main class="flex flex-col">
-  <div>
+  <div class="flex" >
 		<Profile/>
 		<TopFriends/>
 	</div>
